@@ -1,0 +1,14 @@
+The best-known multiple-letter encryption cipher is
+the Playfair, which treats diagrams in the plaintext as
+single units and translates these units into ciphertext
+diagrams.
+
+It was the first literal digraph substitution cipher.
+The scheme was invented in 1854 by Charles Wheatstone, 
+but bears the name of Lord Playfair who promotedthe use 
+of the cipher.
+
+it was Used in WWI and WWII
+
+
+
