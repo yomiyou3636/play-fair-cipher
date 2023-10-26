@@ -52,7 +52,7 @@ The output will be the original plaintext "HELLO."
 
 ## License
 
-This project is licensed under no License.
+This project is not under any License.
 
 ---
 
