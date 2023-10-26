@@ -14,7 +14,7 @@ To encrypt a plaintext message using the Vigenère cipher, run the `vigenere_enc
 and the plaintext message.
 
 ```bash
-python vigenere_encrypt.py
+python play_fair_encryption.py
 ```
 
 The program will provide you with the corresponding ciphertext.
@@ -26,7 +26,7 @@ The program will provide you with the corresponding ciphertext.
 To decrypt a Vigenère ciphertext using the key, run the `vigenere_decrypt.py` script. Follow the instructions to enter the decryption key and the ciphertext.
 
 ```bash
-python play_decrypt.py
+python play_fair_decryption.py
 ```
 
 The program will return the original plaintext.
